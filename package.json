@@ -1,6 +1,6 @@
 {
 	"name": "@credat/langchain",
-	"version": "0.1.0-alpha.1",
+	"version": "0.1.1-alpha.1",
 	"description": "LangChain/LangGraph integration for Credat — authenticate AI agents with trust and delegation",
 	"publishConfig": {
 		"access": "public"
